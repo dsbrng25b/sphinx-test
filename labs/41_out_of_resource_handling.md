@@ -1,4 +1,4 @@
-## Lab 4.1: Out of Resource Handling
+## Out of Resource Handling
 
 This lab deals with out of resource handling on OpenShift platforms, most importantly the handling of out-of-memory conditions. Out of resource conditions can occur either on the container level because of resource limits or on the node level because a node runs out of memory as a result of overcommitting.
 They are either handled by OpenShift or directly by the kernel.
@@ -131,11 +131,3 @@ But remember that hard eviction thresholds are subtracted from the nodes allocat
 
 See [Allocating Node Resources](https://docs.openshift.com/container-platform/3.6/admin_guide/allocating_node_resources.html)
 and [Out of Resource Handling](https://docs.openshift.com/container-platform/3.6/admin_guide/out_of_resource_handling.html) for more information.
-
----
-
-**End of Lab 4.1**
-
-<p width="100px" align="right"><a href="42_outgoing_http_proxies.md">4.2. Outgoing HTTP Proxies →</a></p>
-
-[← back to the Chapter Overview](40_configuration_best_practices.md)

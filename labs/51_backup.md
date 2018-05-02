@@ -1,4 +1,4 @@
-## Lab 5.1: Backup
+## Backup
 
 In this techlab you will learn how to create a new backup and which files are important. The following items should be backuped:
 
@@ -58,11 +58,3 @@ member 92c764a37c90869 is healthy: got healthy result from https://172.31.46.235
 cluster is healthy
 ```
 
-
----
-
-**End of Lab 5.1**
-
-<p width="100px" align="right"><a href="52_restore.md">5.2 Restore →</a></p>
-
-[← back to the Chapter Overview](50_backup_restore.md)

@@ -1,4 +1,4 @@
-## Lab 4.2: Outgoing HTTP Proxies
+## Outgoing HTTP Proxies
 
 Large corporations often allow internet access only via outgoing HTTP proxies for security reasons.
 To use OpenShift Container Platform in such an environment the various OpenShift components and 
@@ -111,11 +111,3 @@ To apply the outgoing HTTP proxy configuration to the cluster you have to run th
 [ec2-user@master0 ~]$ ansible-playbook --tags master,node /usr/share/ansible/openshift-ansible/playbooks/byo/config.yml
 ```
 
-
----
-
-**End of Lab 4.2**
-
-<p width="100px" align="right"><a href="50_backup_restore.md">5. Backup and Restore →</a></p>
-
-[← back to the Chapter Overview](40_configuration_best_practices.md)

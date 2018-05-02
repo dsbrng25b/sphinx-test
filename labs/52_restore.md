@@ -1,4 +1,4 @@
-## Lab 5.2: Restore
+## Restore
 
 ### Restore a Project
 
@@ -106,11 +106,3 @@ Updated member with ID 6248d01c5701 in cluster
 6248d01c5701: name=master0.user[X].lab.openshift.ch peerURLs=https://172.31.46.201:2379 clientURLs=https://172.31.46.201:2379 isLeader=true
 ```
 
-
----
-
-**End of Lab 5.2**
-
-<p width="100px" align="right"><a href="60_monitoring_troubleshooting.md">6. Monitoring and Troubleshooting →</a></p>
-
-[← back to the Chapter Overview](50_backup_restore.md)

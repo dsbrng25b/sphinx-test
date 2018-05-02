@@ -1,4 +1,4 @@
-## Lab 2.2: Install OpenShift
+## Install OpenShift
 
 In the previous lab we prepared the Ansible inventory to fit our test lab environment. Now we can prepare and run the installation.
 
@@ -41,11 +41,3 @@ https://console.user[X].lab.openshift.ch/console/
 ```
 https://console.user[X].lab.openshift.ch/console/extensions/clients/
 ```
-
----
-
-**End of Lab 2.2**
-
-<p width="100px" align="right"><a href="23_verification.md">2.3 Verify the Installation →</a></p>
-
-[← back to the Chapter Overview](20_installation.md)

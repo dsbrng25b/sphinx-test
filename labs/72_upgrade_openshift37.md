@@ -1,4 +1,4 @@
-## Lab 7.2: Upgrade to OpenShift 3.7
+## Upgrade to OpenShift 3.7
 
 ### Upgrade Preparation
 
@@ -104,11 +104,3 @@ https://console.user[X].lab.openshift.ch/console/extensions/clients/
 
 **Note:** You should tell all users of your platform to update their client. Client and server version differences can lead to compatibility issues.
 
-
----
-
-**End of Lab 7.2**
-
-<p width="100px" align="right"><a href="73_upgrade_verification.md">7.3 Verify the Upgrade →</a></p>
-
-[← back to the Chapter Overview](70_upgrade.md)

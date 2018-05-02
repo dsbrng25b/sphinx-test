@@ -1,4 +1,4 @@
-## Lab 7.3: Verify the Upgrade
+## Verify the Upgrade
 
 Check the version of the `docker` and `atomic-openshift` packages on all nodes and master.
 ```
@@ -13,11 +13,5 @@ Check the image version of the registry, router, metrics and logging
 [ec2-user@master0 ~]$ oc get pod -o yaml --all-namespaces | grep -i "image:.*.openshift3"
 ```
 
-Now we need to verify our installation according to chapter "[2.3 Verify OpenShift Installation](23_verification.md)".
+Now we need to verify our installation according to chapter "[Verify OpenShift Installation](23_verification.md)".
 
-
----
-
-**End of Lab 7**
-
-[← back to the Chapter Overview](70_upgrade.md)

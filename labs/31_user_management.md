@@ -1,4 +1,4 @@
-## Lab 3.1: Manage Users
+## Manage Users
 
 ### Add User to Project
 
@@ -158,11 +158,3 @@ Delete the group, entity and user:
 
 [ec2-user@master0 ~]$ ansible masters -a "htpasswd -D /etc/origin/master/htpasswd cowboy"
 ```
-
----
-
-**End of Lab 3.1**
-
-<p width="100px" align="right"><a href="32_update_hosts.md">3.2 Update Hosts →</a></p>
-
-[← back to the Chapter Overview](30_daily_business.md)

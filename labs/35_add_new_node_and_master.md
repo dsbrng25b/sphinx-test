@@ -1,4 +1,4 @@
-## Lab 3.5: Add New OpenShift Node and Master
+## Add New OpenShift Node and Master
 
 In this lab we will add a new node and a new master to our OpenShift cluster.
 
@@ -238,12 +238,3 @@ Confirm that the nodes now have the correct label:
 ```
 oc get nodes --show-labels
 ```
-
-
----
-
-**End of Lab 3.5**
-
-<p width="100px" align="right"><a href="40_configuration_best_practices.md">4. Configuration Best Practices →</a></p>
-
-[← back to the Chapter Overview](30_daily_business.md)

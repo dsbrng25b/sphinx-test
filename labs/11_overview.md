@@ -1,4 +1,4 @@
-## Lab 1.1: Architectural Overview
+## Architectural Overview
 
 This is the environment we will build and work on. It is deployed on Amazon AWS.
 
@@ -17,12 +17,3 @@ Our lab installation consists of the following components:
   1. Logging
 1. One app node, one will be added later
 1. For now, we are going to use the first master as a bastion host (bastion.user[X].lab.openshift.ch)
-
-
----
-
-**End of Lab 1.1**
-
-<p width="100px" align="right"><a href="12_access_environment.md">1.2 Access the Lab Environment →</a></p>
-
-[← back to the Chapter Overview](10_warmup.md)
