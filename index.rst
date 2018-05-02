@@ -8,7 +8,7 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   labs/*.md
+   labs/*
 
 
 .. toctree::
@@ -16,4 +16,4 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   appendices/*.md
+   appendices/*
