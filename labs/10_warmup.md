@@ -2,6 +2,8 @@
 
 This first chapter gives an overview of the lab environment and explains how to access it.
 
+bla bla
+
 
 ## Chapter Content
 

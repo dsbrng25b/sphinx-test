@@ -1,6 +1,8 @@
 Openshift Ops Lab
 =================
 
+Some changes in content
+
 Contents:
 
 .. toctree::
