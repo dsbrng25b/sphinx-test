@@ -5,7 +5,6 @@ Contents:
 
 .. toctree::
    :caption: Labs
-   :numbered:
    :maxdepth: 2
    :glob:
 
@@ -14,7 +13,6 @@ Contents:
 
 .. toctree::
    :caption: Appendices
-   :numbered:
    :maxdepth: 2
    :glob:
 

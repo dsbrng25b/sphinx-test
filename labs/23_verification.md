@@ -1,4 +1,4 @@
-## Verify the Installation
+## 2.3 Verify the Installation
 
 After the completion of the installation, we can verify, if everything is running as expected. Most of the checks have already been done by the playbooks.
 First check if the API reachable and all nodes are ready with the right tags.
@@ -33,3 +33,9 @@ Create a project, run a build, push/pull from the internal registry and deploy a
 [ec2-user@master0 ~]$ oc get pods -w
 ```
 We keep this project so we have at least one pod running on OpenShift. If you decide to create other projects/pods you may delete this project with `oc delete project dakota`.
+
+**End of Lab 2.3**
+
+<p width="100px" align="right"><a href="30_daily_business.md">3. Daily Business →</a></p>
+
+[← back to the Chapter Overview](20_installation.md)

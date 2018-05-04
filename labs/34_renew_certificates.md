@@ -1,4 +1,4 @@
-## Renew Certificates
+## Lab 3.4: Renew Certificates
 
 In this lab we take a look at the OpenShift certificates and how to renew them.
 
@@ -90,3 +90,11 @@ Use the following playbooks to replace the certificates of the other main compon
 - router
   - /usr/share/ansible/openshift-ansible/playbooks/byo/openshift-cluster/redeploy-router-certificates.yml
 
+
+---
+
+**End of Lab 3.4**
+
+<p width="100px" align="right"><a href="35_add_new_node_and_master.md">3.5 Add New OpenShift Node and Master →</a></p>
+
+[← back to the Chapter Overview](30_daily_business.md)

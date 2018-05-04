@@ -1,4 +1,4 @@
-## Monitoring
+## Lab 6.1: Monitoring
 
 OpenShift monitoring can be categorized into three different categories which each try to answer their own question:
 1. Is our cluster in an operational state right now?
@@ -93,3 +93,11 @@ The information about kube-ops-view as well as its installation instructions are
 
 These two tools provide a quick look at resource availability. Implementing a mature, enterprise-grade monitoring of OpenShift resources depends on what tools are available already in an IT environment and would go beyond the scope and length of this techlab, but the referred blog post series certainly is a good start.
 
+
+---
+
+**End of Lab 6.1**
+
+<p width="100px" align="right"><a href="62_logs.md">6.2 Troubleshooting Using Logs →</a></p>
+
+[← back to the Chapter Overview](60_monitoring_troubleshooting.md)

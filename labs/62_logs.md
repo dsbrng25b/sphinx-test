@@ -1,4 +1,4 @@
-## Troubleshooting Using Logs
+## Lab 6.2: Troubleshooting Using Logs
 
 As soon as basic functionality of OpenShift itself is reduced or not working at all, we have to have a closer look at the underlying components' log messages. We find these logs either in the journal on the different servers or in Elasticsearch.
 
@@ -69,3 +69,10 @@ Or by searching Elasticsearch: After logging in to https://logging.app[X].lab.op
 
 Or if we wanted to filter for error messages we could simply use "error" in the search bar and then by looking at the available fields (in the menu on the left) limit the search results further.
 
+---
+
+**End of Lab 6.2**
+
+<p width="100px" align="right"><a href="70_upgrade.md">Upgrade OpenShift from 3.6 to 3.7 →</a></p>
+
+[← back to the Chapter Overview](60_monitoring_troubleshooting.md)

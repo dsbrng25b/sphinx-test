@@ -1,4 +1,4 @@
-## Update Hosts
+## Lab 3.2: Update Hosts
 
 ### OpenShift Excluder
 In this lab we take a look at the OpenShift excluders, apply OS updates to all nodes, drain, reboot and schedule them again.
@@ -76,3 +76,11 @@ logging-fluentd-s2k2j     1/1       Running   1          1h
 ```
 
 Since we want to update the whole cluster, you will need to repeat these steps on all servers. Masters do not need to be drained because they do not run any pods (unschedulable by default).
+
+---
+
+**End of Lab 3.2**
+
+<p width="100px" align="right"><a href="33_persistent_storage.md">3.3 Persistent Storage →</a></p>
+
+[← back to the Chapter Overview](30_daily_business.md)

@@ -1,4 +1,4 @@
-## Persistent Storage
+## Lab 3.3: Persistent Storage
 
 In this lab we take a look at the OpenShift implementation of Container Native Storage using the `heketi-cli` to resize a volume.
 
@@ -171,3 +171,11 @@ registry-volume   5Gi        RWX           Retain          Bound     default/reg
 NAME              CAPACITY   ACCESSMODES   RECLAIMPOLICY   STATUS    CLAIM                    STORAGECLASS   REASON    AGE
 registry-volume   6Gi        RWX           Retain          Bound     default/registry-claim                            1d
 ```
+
+---
+
+**End of Lab 3.3**
+
+<p width="100px" align="right"><a href="34_renew_certificates.md">3.4 Renew Certificates →</a></p>
+
+[← back to the Chapter Overview](30_daily_business.md)
